@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Apr 17 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@snevs](https://github.com/snevs))
+
+#### Authors: 1
+
+- Costi ([@snevs](https://github.com/snevs))
+
+---
+
 # v0.0.1 (Wed Apr 17 2024)
 
 :tada: This release contains work from a new contributor! :tada:
